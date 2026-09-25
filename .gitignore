@@ -1,7 +1,6 @@
-*slnx
-*.csproj
-
 Logs/
+*.csproj
+*.slnx
 .vscode/
 Library/
 Temp/
