@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public int level = 10;
+    public int level = 20;
     public string gender = "male";
     void Start()
     {
