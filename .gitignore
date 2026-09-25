@@ -1,8 +1,0 @@
-*slnx
-*.csproj
-
-Logs/
-.vscode/
-Library/
-Temp/
-UserSettings/
